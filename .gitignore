@@ -1,0 +1,12 @@
+# Private keys - NEVER commit these
+*.pem
+private-key.pem
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
